@@ -1,0 +1,4 @@
+{
+  "appResourcesPath": "../../shared/app_resources",
+  "webpackConfigPath": "./svelte-native.webpack.config.js"
+}

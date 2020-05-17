@@ -1,0 +1,11 @@
+{
+  "name": "nativescript-actions",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "repository": "https://github.com/rigor789/nativescript-actions.git",
+  "author": "rigor789 <rigor789@gmail.com>",
+  "license": "MIT"
+}
