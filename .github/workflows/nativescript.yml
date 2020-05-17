@@ -30,7 +30,7 @@ jobs:
           tns doctor
           
       - name: Install Dependencies
-        run: npm ci
+        run: npm install
         working-directory: apps/${{ matrix.app }}
       
       - name: Build Android Application
